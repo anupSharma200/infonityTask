@@ -1,4 +1,8 @@
 {
   "name": "MiniCart",
-  "displayName": "MiniCart"
+  "displayName": "MiniCart",
+  "rnpm": {
+    "assets": ["src/fonts/"]
+  }
 }
+
